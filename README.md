@@ -1,3 +1,1 @@
-# My first git project
-## About
-This project is a gift practice lab.
+# Git Lab Project (Main Branch Version)
