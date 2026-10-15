@@ -6,3 +6,5 @@
 >>>>>>>  "Edited directly on GitHub."
 ## Description 
 A hands-on lab repository for practicing Git and Github. 
+## Description
+A hands on lab repo for practicing git and github
